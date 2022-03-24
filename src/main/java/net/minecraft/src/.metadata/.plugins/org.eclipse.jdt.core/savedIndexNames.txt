@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\nick909\Desktop\nickcraft-main\nickcraft-main\src\main\java\net\minecraft\src\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
